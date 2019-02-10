@@ -38,7 +38,7 @@ def get_filters():
             month = test_month
             break
         except:
-            print('Invalid entry. Choose a month between January and June OR type ALL ')
+            print('Invalid entry. Don\'t give up! Try again! Choose a month between January and June OR type ALL ')
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
