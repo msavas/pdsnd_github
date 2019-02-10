@@ -5,7 +5,7 @@ February 10, 2019
 Udacity Git Project
 
 ### Description
-Describe what your project is about and what it does
+This project tests my understanding of version control using git.
 
 ### Files used
 washington.csv
